@@ -78,5 +78,3 @@ We ❤️ contributions! Create a pull request for suggestions or enhancements.
 
 ## 📜 ** License **
 This project is licensed under the MIT License.
-```vbnet
-Copy and paste this code into your `README.md` file on GitHub. Let me know if you need further assistance! 😊
