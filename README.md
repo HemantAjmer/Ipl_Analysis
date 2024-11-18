@@ -51,13 +51,10 @@ This project delves into IPL datasets to:
 ---
 
 ## 🎨 **Visualizations**
-- **Runs Distribution Across Overs**  
-   ![Example Chart](https://via.placeholder.com/400x200?text=Run+Distribution)  
-- **Dismissal Types**  
-   ![Example Chart](https://via.placeholder.com/400x200?text=Dismissal+Types)  
+Like...
+- **Runs Distribution Across Overs**    
+- **Dismissal Types**    
 - **Team Performance Trends**  
-   ![Example Chart](https://via.placeholder.com/400x200?text=Performance+Trends)  
-
 ---
 
 ## 🚀 **Get Started**
